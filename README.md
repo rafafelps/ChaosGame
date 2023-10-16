@@ -21,7 +21,7 @@ Made with C++ using raylib to render. It uses a rule to mark the next point and,
 These are the settings that can be configured:
 <p>
     <a href="./docs/assets/configs.png" target="_blank" rel="noopener">
-      <img src="./docs/assets/configs.png" width="100%" alt="Produced with C++" />
+      <img src="./docs/assets/configs.png" alt="Produced with C++" />
     </a>
 </p>
 
