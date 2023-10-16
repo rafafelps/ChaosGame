@@ -21,7 +21,7 @@ Made with C++ using raylib to render. It uses a rule to mark the next point and,
 These are the settings that can be configured:
 <p>
     <a href="./docs/assets/configs.png" target="_blank" rel="noopener">
-      <img src="./docs/assets/configs.png" width="200%" alt="Produced with C++" />
+      <img src="./docs/assets/configs.png" width="100%" alt="Produced with C++" />
     </a>
 </p>
 
@@ -35,10 +35,10 @@ These are the settings that can be configured:
 ## Other examples
 <p>
     <a href="./docs/assets/3-sided.png" target="_blank" rel="noopener">
-      <img src="./docs/assets/3-sided.png" width="200%" alt="Produced with C++" />
+      <img src="./docs/assets/3-sided.png" width="100%" alt="Produced with C++" />
     </a>
     <a href="./docs/assets/4-sided.png" target="_blank" rel="noopener">
-      <img src="./docs/assets/4-sided.png" width="200%" alt="Produced with C++" />
+      <img src="./docs/assets/4-sided.png" width="100%" alt="Produced with C++" />
     </a>
 </p>
 
