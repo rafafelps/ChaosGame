@@ -33,12 +33,12 @@ These are the settings that can be configured:
 </p>
 
 ## Other examples
-<p>
+<p align="center">
     <a href="./docs/assets/3-sided.png" target="_blank" rel="noopener">
-      <img src="./docs/assets/3-sided.png" alt="Produced with C++" />
+      <img src="./docs/assets/3-sided.png" width="200" alt="Produced with C++" />
     </a>
     <a href="./docs/assets/4-sided.png" target="_blank" rel="noopener">
-      <img src="./docs/assets/4-sided.png" alt="Produced with C++" />
+      <img src="./docs/assets/4-sided.png" width="200" alt="Produced with C++" />
     </a>
 </p>
 
