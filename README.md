@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    <strong>A fractal generator based on a rule to follow and a list of vertex.</strong>
+    <strong>A simple fractal generator.</strong>
   </p>
   <p>
     <a href="https://cplusplus.com/reference/" target="_blank" rel="noopener">
@@ -15,7 +15,7 @@
 </div>
 
 ## Description
-Made with C++ using raylib to render. It uses a rule to mark the next point and, over time, generates a fractal.
+Made with C++ using raylib to render. It uses a rule to distribute points inside a shape and, over time, generates a fractal.
 
 ## Config
 These are the settings that can be configured:
